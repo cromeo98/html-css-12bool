@@ -142,3 +142,7 @@
 .bottom-xs {
     align-items: flex-end;
 }
+
+.txt-cen{
+    text-align: center;
+}
